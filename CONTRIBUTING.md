@@ -26,3 +26,4 @@ Notes and usage details for clickup-cli.
 - add a note about the defaults
 - link the usage section
 - link the usage section
+- add a note about the defaults
